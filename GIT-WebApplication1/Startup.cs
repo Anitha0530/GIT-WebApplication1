@@ -50,6 +50,7 @@ namespace GIT_WebApplication1
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapRazorPages();
+                // added an additional comment
             });
         }
     }
