@@ -51,6 +51,7 @@ namespace GIT_WebApplication1
             {
                 endpoints.MapRazorPages();
                 // added an additional comment
+                // one more comment
             });
         }
     }
